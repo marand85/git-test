@@ -6,4 +6,8 @@ public class Main {
 
 	}
 
+	private void displayText() {
+		System.out.println("Change in second repo.");
+	}
+
 }
